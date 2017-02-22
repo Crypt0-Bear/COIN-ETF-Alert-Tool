@@ -19,3 +19,4 @@ The script updates every 30 secons.
 
 
 
+### BTC Donation Address: 19SuxiLnbWenhsWkMjZF3fYo5VSDUPoLnG
